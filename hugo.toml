@@ -1,0 +1,11 @@
+baseURL = "https://blog.al1almasi.ir/"
+languageCode = "en-us"
+title = "Ali's blog"
+theme = "anatole"
+enableEmoji = true
+
+[params]
+	title = "Ali's blog"
+	author = "Ali Almasi"
+	description = "Here, I write mostly about computers and stuff."
+	profilePicture = "images/profile.jpg"
