@@ -1,0 +1,33 @@
+.chroma {
+	background-color: unset !important;
+}
+
+.not-found {
+    position: absolute;
+    left: 0;
+    right: 0;
+    display: flex;
+	flex-direction: column;
+    align-items: center;
+    justify-content: center;
+	gap: 32px;
+    height: 80%;
+	line-height: 1;
+}
+
+.not-found-no {
+    font-size: 70px;
+    font-weight: 700;
+}
+
+.not-found-text {
+	font-size: 24px;
+	font-weight: 400;
+	
+}
+
+.not-found-link:link, .not-found-link:visited {
+	font-size: 22px;
+	font-weight: 600;
+	border-bottom: 1px solid var(--primary)
+}
