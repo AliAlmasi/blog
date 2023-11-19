@@ -43,22 +43,22 @@ params:
   assets:
     disableHLJS: true
     disableFingerprinting: true
-    favicon: "/favicon.ico"
-    favicon16x16: "/favicon-16x16"
-    favicon32x32: "/favicon-32x32"
-    apple_touch_icon: "/apple-touch-icon.png"
-    safari_pinned_tab: "/safari-pinned-tab"
+    favicon: "./favicon.ico"
+    favicon16x16: "./favicon-16x16"
+    favicon32x32: "./favicon-32x32"
+    apple_touch_icon: "./apple-touch-icon.png"
+    safari_pinned_tab: "./safari-pinned-tab"
 
   label:
     text: "Ali's blog"
-    icon: "/images/profile.jpg"
+    icon: "./images/profile.jpg"
     iconHeight: 35
 
   profileMode:
     enabled: false
     title: Ali Almasi
     subtitle: "A beginner web developer, currently living in Tehran. My interests range from technology to music. I'm also interested in software development and photography. If you'd like to get in touch, you can run `npx alialmasi`"
-    imageUrl: "/images/profile.jpg"
+    imageUrl: "./images/profile.jpg"
     imageWidth: 150
     imageHeight: 150
     imageTitle: Ali Almasi
