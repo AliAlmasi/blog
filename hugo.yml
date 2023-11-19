@@ -51,7 +51,7 @@ params:
 
   label:
     text: "Ali's blog"
-    icon: /images/profile.jpg
+    icon: "/images/profile.jpg"
     iconHeight: 35
 
   profileMode:
