@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blogs on Ali&#39;s blog</title>
-    <link>https://blog.al1almasi.ir/blog/</link>
+    <link>https://al1almasi.ir/blog/blog/</link>
     <description>Recent content in Blogs on Ali&#39;s blog</description>
     <image>
       <title>Ali&#39;s blog</title>
-      <url>https://blog.al1almasi.ir/</url>
-      <link>https://blog.al1almasi.ir/</link>
+      <url>https://al1almasi.ir/blog/</url>
+      <link>https://al1almasi.ir/blog/</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Nov 2023 20:02:39 +0330</lastBuildDate><atom:link href="https://blog.al1almasi.ir/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Nov 2023 20:02:39 +0330</lastBuildDate><atom:link href="https://al1almasi.ir/blog/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>اولین پست فارسی</title>
-      <link>https://blog.al1almasi.ir/blog/avalin-post-farsi/</link>
+      <link>https://al1almasi.ir/blog/blog/avalin-post-farsi/</link>
       <pubDate>Sun, 19 Nov 2023 20:02:39 +0330</pubDate>
       
-      <guid>https://blog.al1almasi.ir/blog/avalin-post-farsi/</guid>
+      <guid>https://al1almasi.ir/blog/blog/avalin-post-farsi/</guid>
       <description>اولین پست فارسی آقا بالاخره پس از دردسر های عظیمی، ما فهمیدیم این چجوری rtl میشه.
 خیلی تریک خاصی استفاده نکردم. ظاهرا وقتی title یه پستی رو فارسی بنویسی اون پیج رو کامل واست rtl میکنه.
 من بیشتر دنبال یه راهی بودم که کانتنت یه پستی رو rtl کنم، نتیجه خوبی هم پیدا نکردم. فعلا باید با همین روشِ title فارسی باید جلو بریم.
@@ -27,10 +27,10 @@
     
     <item>
       <title>My First Post</title>
-      <link>https://blog.al1almasi.ir/blog/my-first-post/</link>
+      <link>https://al1almasi.ir/blog/blog/my-first-post/</link>
       <pubDate>Sun, 05 Nov 2023 22:37:51 +0330</pubDate>
       
-      <guid>https://blog.al1almasi.ir/blog/my-first-post/</guid>
+      <guid>https://al1almasi.ir/blog/blog/my-first-post/</guid>
       <description>Hello world using Hugo 🙂 1 2 def hello_world(): print(&amp;#34;Hello world&amp;#34;) Installing Hugo is pretty easy, but configuring Hugo is not easy at all 🙂.
 Anyway, here&amp;rsquo;s my blog. I try to write at least a post in a week or two, just to have here updated 🙂.
 Have a good time.</description>

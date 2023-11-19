@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.al1almasi.ir/</loc>
+    <loc>https://al1almasi.ir/blog/</loc>
     <lastmod>2023-11-19T20:02:39+03:30</lastmod>
   </url><url>
-    <loc>https://blog.al1almasi.ir/blog/</loc>
+    <loc>https://al1almasi.ir/blog/blog/</loc>
     <lastmod>2023-11-19T20:02:39+03:30</lastmod>
   </url><url>
-    <loc>https://blog.al1almasi.ir/blog/avalin-post-farsi/</loc>
+    <loc>https://al1almasi.ir/blog/blog/avalin-post-farsi/</loc>
     <lastmod>2023-11-19T20:02:39+03:30</lastmod>
   </url><url>
-    <loc>https://blog.al1almasi.ir/blog/my-first-post/</loc>
+    <loc>https://al1almasi.ir/blog/blog/my-first-post/</loc>
     <lastmod>2023-11-05T22:37:51+03:30</lastmod>
   </url><url>
-    <loc>https://blog.al1almasi.ir/categories/</loc>
+    <loc>https://al1almasi.ir/blog/categories/</loc>
   </url><url>
-    <loc>https://blog.al1almasi.ir/search/</loc>
+    <loc>https://al1almasi.ir/blog/search/</loc>
   </url><url>
-    <loc>https://blog.al1almasi.ir/tags/</loc>
+    <loc>https://al1almasi.ir/blog/tags/</loc>
   </url>
 </urlset>
