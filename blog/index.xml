@@ -11,7 +11,20 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Nov 2023 22:37:51 +0330</lastBuildDate><atom:link href="https://blog.al1almasi.ir/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Nov 2023 20:02:39 +0330</lastBuildDate><atom:link href="https://blog.al1almasi.ir/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>اولین پست فارسی</title>
+      <link>https://blog.al1almasi.ir/blog/avalin-post-farsi/</link>
+      <pubDate>Sun, 19 Nov 2023 20:02:39 +0330</pubDate>
+      
+      <guid>https://blog.al1almasi.ir/blog/avalin-post-farsi/</guid>
+      <description>اولین پست فارسی آقا بالاخره پس از دردسر های عظیمی، ما فهمیدیم این چجوری rtl میشه.
+خیلی تریک خاصی استفاده نکردم. ظاهرا وقتی title یه پستی رو فارسی بنویسی اون پیج رو کامل واست rtl میکنه.
+من بیشتر دنبال یه راهی بودم که کانتنت یه پستی رو rtl کنم، نتیجه خوبی هم پیدا نکردم. فعلا باید با همین روشِ title فارسی باید جلو بریم.
+اینم از این 🙂
+ولی درکل از hugo خوشم میاد.</description>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>https://blog.al1almasi.ir/blog/my-first-post/</link>
