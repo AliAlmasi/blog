@@ -130,3 +130,4 @@ outputs:
     home:
         - HTML
         - JSON # is necessary
+        - RSS
